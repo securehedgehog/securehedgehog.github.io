@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://securehedgehog.github.io/</loc>
+    <loc>https://blog.itsshaz.com/</loc>
     <lastmod>2022-09-18T22:39:40+01:00</lastmod>
   </url><url>
-    <loc>https://securehedgehog.github.io/posts/</loc>
+    <loc>https://blog.itsshaz.com/posts/</loc>
     <lastmod>2022-09-18T22:39:40+01:00</lastmod>
   </url><url>
-    <loc>https://securehedgehog.github.io/posts/test/</loc>
+    <loc>https://blog.itsshaz.com/posts/test/</loc>
     <lastmod>2022-09-18T22:39:40+01:00</lastmod>
   </url><url>
-    <loc>https://securehedgehog.github.io/posts/myfirstpost/</loc>
+    <loc>https://blog.itsshaz.com/posts/myfirstpost/</loc>
     <lastmod>2022-09-18T22:03:11+01:00</lastmod>
   </url><url>
-    <loc>https://securehedgehog.github.io/categories/</loc>
+    <loc>https://blog.itsshaz.com/categories/</loc>
   </url><url>
-    <loc>https://securehedgehog.github.io/tags/</loc>
+    <loc>https://blog.itsshaz.com/tags/</loc>
   </url>
 </urlset>
