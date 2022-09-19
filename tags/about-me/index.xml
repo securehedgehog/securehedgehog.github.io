@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hey, It&#39;s Shaz!</title>
-    <link>https://blog.itsshaz.com/</link>
-    <description>Recent content on Hey, It&#39;s Shaz!</description>
+    <title>about me on Hey, It&#39;s Shaz!</title>
+    <link>https://blog.itsshaz.com/tags/about-me/</link>
+    <description>Recent content in about me on Hey, It&#39;s Shaz!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Sep 2022 19:50:29 +0100</lastBuildDate><atom:link href="https://blog.itsshaz.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Sep 2022 19:50:29 +0100</lastBuildDate><atom:link href="https://blog.itsshaz.com/tags/about-me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who&#39;s Shaz?</title>
       <link>https://blog.itsshaz.com/posts/aboutme/</link>
